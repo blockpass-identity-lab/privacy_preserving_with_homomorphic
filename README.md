@@ -21,8 +21,8 @@ I have added tests:
 * ElGamal Divide. https://asecuritysite.com/encryption/go_el_homo2 
 * ElGamal Additive. https://asecuritysite.com/encryption/go_el_homo3
 
-## Running tests
-To run your tests:
+## ZKP voting
+This method supports citizen privacy, and where each voter can verify the result. To run your tests:
 
 <pre>
 go build go_priv.go
