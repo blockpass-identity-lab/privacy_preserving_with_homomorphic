@@ -30,7 +30,9 @@ go build go_priv.go
 
 Then run:
 
+<pre>
 go_priv [v1] [v2] [v3] [v4] [v5]
+</pre>
 
 where [v1] is the vote for Voter 1, eg:
 
