@@ -2,7 +2,17 @@
 
 Paper here: https://www.overleaf.com/project/5ceba28f48dfde5746a3ecf3
 
-# Sample runs
+Aim: The paper will look at a practical evaluation of privacy preserving voting. Perhaps matching to energy costs for a last scale vote. I have samples for EGamal and ZKP, but need a SEAL implementation to compare.
+
+Requirements for paper:
+
+* Up-to-date literature review.
+* Other performance statistics.
+
+# Coding samples
+I have used Go here, as it gives us good performance and integrates standard methods.
+
+## Sample runs
 
 I have added tests:
 
