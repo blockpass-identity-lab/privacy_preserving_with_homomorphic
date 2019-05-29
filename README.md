@@ -1,4 +1,4 @@
-# privacy_preserving_with_homomorphic
+# Privacy Preserving Voting with Homomorphic Encryption
 
 Paper here: https://www.overleaf.com/project/5ceba28f48dfde5746a3ecf3
 
