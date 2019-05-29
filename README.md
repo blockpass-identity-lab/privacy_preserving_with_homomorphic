@@ -10,7 +10,7 @@ Requirements for paper:
 * Other performance statistics.
 
 # Coding samples
-I have used Go here, as it gives us good performance and integrates standard methods.
+I have used Go here, as it gives us good performance and integrates standard methods. Note the standard run typically only has a 512 bit prime number, and which will not be secure. 1K keys would probably be the starting point.
 
 ## Sample runs
 
